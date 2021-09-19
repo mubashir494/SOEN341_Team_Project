@@ -18,7 +18,7 @@ Users can upvote and downvote the answers and select one as an accepted answer.
 
 * Artem Khizhnyak ([kaosalrim](https://github.com/kaosalrim "Github user's profile"))
 * Muhammad Mubashir
-* Jordan Joseph
+* Jordan Joseph ([Josephj9720](https://github.com/Josephj9720 "Github user's profile"))
 * Daniel Chin-Bellemare
 * Hussein Olleik
 * Gulnoor Kaur
