@@ -16,7 +16,7 @@ Users can upvote and downvote the answers and select one as an accepted answer.
 
 ## Team Members 
 
-* Artem Khizhnyak ([kaosalrim])(https://github.com/kaosalrim "Github user's profile'")
+* Artem Khizhnyak [kaosalrim](https://github.com/kaosalrim "Github user's profile'")
 * Muhammad Mubashir
 * Jordan Joseph
 * Daniel Chin-Bellemare
