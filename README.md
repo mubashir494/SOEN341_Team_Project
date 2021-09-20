@@ -5,7 +5,7 @@ Design a Q&A style website. A simplified version of StackOverflow
 
 ## Project
 
-This web application allows people to share knowledge by asking and answering questions. The user can submit a question and another user(s) can post their answear(s).
+This web application allows people to share knowledge by asking and answering questions. The user can submit a question and another user(s) can post their answer(s).
 Users can upvote and downvote the answers and select one as an accepted answer.
 
 ## Core features
@@ -20,7 +20,7 @@ Users can upvote and downvote the answers and select one as an accepted answer.
 * Muhammad Mubashir([mubashir494](https://github.com/mubashir494 "Github user's profile"))
 * Jordan Joseph ([Josephj9720](https://github.com/Josephj9720 "Github user's profile"))
 * Daniel Chin-Bellemare ([isleepontree10](https://github.com/isleepontree10 "Github user's profile"))
-* Hussein Olleik
+* Hussein Olleik ([HAOlleik](https://github.com/HAOlleik "Github user's profile"))
 * Gulnoor Kaur
 * Kamar Kibbi
 * Ayeshah Rehman
