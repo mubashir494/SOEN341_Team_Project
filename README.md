@@ -22,7 +22,7 @@ Users can upvote and downvote the answers and select one as an accepted answer.
 * Daniel Chin-Bellemare ([isleepontree10](https://github.com/isleepontree10 "Github user's profile"))
 * Hussein Olleik ([HAOlleik](https://github.com/HAOlleik "Github user's profile"))
 * Gulnoor Kaur
-* Kamar Kibbi
+* Kamar Kibbi ([kamarkibbi](https://github.com/kamarkibbi "Github user's profile"))
 * Ayeshah Rehman
 
 ## Technologies
